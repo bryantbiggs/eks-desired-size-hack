@@ -79,3 +79,4 @@ Note: the `desired_size` must be raised BEFORE the `min_size` can be raised to a
 - https://github.com/terraform-aws-modules/terraform-aws-eks/issues/2151
 - https://github.com/terraform-aws-modules/terraform-aws-eks/issues/2158
 - https://github.com/terraform-aws-modules/terraform-aws-eks/issues/2236
+- https://github.com/terraform-aws-modules/terraform-aws-eks/issues/3521
